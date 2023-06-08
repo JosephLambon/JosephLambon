@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @JosephLambon
-- 👀 I’m looking to pivot into the software world once I graduate my Physics degree in June 2023
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m aspiring to enter the world of software development once graduating University of Nottingham with a Physics degree in July 2023.
 - 📫 How to reach me:
      e: joe.lambon25@gmail.com
      t: +44 7552 215800
