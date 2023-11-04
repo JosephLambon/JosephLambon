@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JosephLambon
-- 👀 I’m aspiring to enter the world of software development once graduating University of Nottingham with a Physics degree in July 2023.
+- 👀 A 2023 Physics graduate from University of Nottingham, UK, looking to enter the software world.
 - 📫 How to reach me:
      e: joe.lambon25@gmail.com
      t: +44 7552 215800
