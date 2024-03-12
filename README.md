@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JosephLambon
 - 👀 A 2023 Physics graduate from University of Nottingham, UK, looking to enter the software world.
 
-📫 How to reach me:
+📫   How to reach me:
 - e: joe.lambon25@gmail.com
 - t: +44 7552 215800
 - LinkedIn: https://www.linkedin.com/in/joe-lambon/
