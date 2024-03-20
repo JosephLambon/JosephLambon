@@ -8,7 +8,7 @@
 
 ### Welcome!
 
-I am an aspiring software engineer, and a Physics graduate of UoN in 2023.
+I am a UoN Physics graduate, and an aspiring software engineer.
 
 - 👋 Hi, I’m @JosephLambon
 - 👀 A 2023 Physics graduate from University of Nottingham, UK, looking to enter the software world.
