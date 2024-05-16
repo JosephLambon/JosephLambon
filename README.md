@@ -21,7 +21,7 @@ Following this, I invested time completing Harvard's CS50 course, giving me an u
 
 Opting for the 'Scientific Computing' module in final year taught me lessons in optimising code for better run-times, and my final year project on galaxy reddening introduced me to Linux.
 
-After finishing university, I completed Harvard's CS50W course alongside a full-time job as part of a ski season in Whistler, Canada, teaching me to develop web applications using Python and JavaScript. Using frameworks such as Django, React, Bootstrap, SQL, and Selenium, I was able to develop functional applications such as a Social Networking site, a Commerce platform, and a Producvtivity app.
+After finishing university, I completed Harvard's CS50W course alongside a full-time job as part of a ski season in Whistler, Canada, teaching me to develop web applications using Python and JavaScript. Using frameworks such as Django, React, Bootstrap, SQL, and Selenium, I was able to develop functional applications such as a Social Networking site, a Commerce platform, and a Productivity app.
 
 Feel free to take a look at some of my projects, otherwise, find me on [LinkedIn](https://www.linkedin.com/in/joe-lambon/)!
 
