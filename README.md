@@ -8,7 +8,7 @@
 
 ### Hi!
 
-I am a Physics graduate and aspiring software engineer.
+I am a Physics graduate and incoming Implementation Engineer for Ecclesiasical Insurance.
 
 My interest in software engineering was first sparked on my placement year at Cummins during university, where I was able to utilise the programming skills I acquired in my first year studies to develop practical applications. At Cummins, I was able to utilise Microsoft's VBA to automate a laborous spend-comparison process. This being a success, I presented the tool to the Executive Director in the USA. Later, using Python, I was able to analyse complex simulation data to determine the most prominent cause of failure in turbocharger cores.
 
@@ -16,7 +16,7 @@ Following this, I invested time completing Harvard's CS50 course, giving me an u
 
 Opting for the 'Scientific Computing' module in final year taught me lessons in optimising code for better run-times, and my final year project on galaxy reddening introduced me to Linux.
 
-Since finishing university, I have been completing Harvard's CS50W course alongside a full-time job as part of a ski season in Whistler, Canada, teaching me to develop web applications using Python and JavaScript. Using frameworks such as Django, React, Bootstrap, SQL, and Selenium, I have been able to develop functional applications such as a Social Networking site, an Email site, and a Commerce platform.
+After finishing university, I completed Harvard's CS50W course alongside a full-time job as part of a ski season in Whistler, Canada, teaching me to develop web applications using Python and JavaScript. Using frameworks such as Django, React, Bootstrap, SQL, and Selenium, I was able to develop functional applications such as a Social Networking site, a Commerce platform, and a Producvtivity app.
 
 Feel free to take a look at some of my projects, otherwise, find me on [LinkedIn](https://www.linkedin.com/in/joe-lambon/)!
 
