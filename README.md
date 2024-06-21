@@ -13,7 +13,7 @@
 
 ### Hi!
 
-I am a Physics graduate and incoming Implementation Engineer for Ecclesiasical Insurance.
+I am a Physics graduate and Implementation Engineer for Ecclesiasical Insurance.
 
 My interest in software engineering was first sparked on my placement year at Cummins during university, where I was able to utilise the programming skills I acquired in my first year studies to develop practical applications. At Cummins, I was able to utilise Microsoft's VBA to automate a laborous spend-comparison process. This being a success, I presented the tool to the Executive Director in the USA. Later, using Python, I was able to analyse complex simulation data to determine the most prominent cause of failure in turbocharger cores.
 
