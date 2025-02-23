@@ -1,14 +1,8 @@
 <div align="center" style="display: flex;
   justify-content: space-between;
   align-items: center;">
-  <img src="https://github.com/JosephLambon/JosephLambon/assets/107887718/bb52f473-3e60-4fe3-93bc-057213a10cd5" class="img-responsive" style="width: 225px;"> &nbsp; &nbsp;
-<!--   <img src="https://github.com/JosephLambon/JosephLambon/assets/107887718/fc8f737d-3cf0-4dfb-81fb-99adf782d050" class="img-responsive object-fit-cover" style="width: 90px; margin-right: 20px;"> -->
-  <img src="https://github.com/JosephLambon/JosephLambon/assets/107887718/2dd146cd-5be4-4644-bfd9-03d4cfb1e7e8" class="img-responsive object-fit-cover" style="width: 350px;">
-
-  
-  <br>
-  <br>
-  <img src="https://github.com/JosephLambon/JosephLambon/assets/107887718/bded2d07-e8e1-4ce1-8a4b-99b4ffed175d" class="img-responsive object-fit-cover" style="width: 175px; margin-top: 20px;">
+  <img src="https://github.com/user-attachments/assets/7d414615-3cdd-443a-a3bd-363655bffd03" class="img-responsive" style="width: 225px;">
+  <img src="https://github.com/user-attachments/assets/6a1406f3-61e3-4616-8458-61a7f9167dae" class="img-responsive" style="width: 225px;">
 </div>
 
 ### Hi!
