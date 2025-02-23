@@ -19,7 +19,7 @@
 
 I am a Physics graduate and Implementation Engineer for Ecclesiasical Insurance.
 
-My interest in software engineering was sparked on my placement year with Cummins, where I developed a practical solution, automating a laborous spend-comparison process. Here, I was also able to analyse complex simulation data in Python to determine the most prominent cause of failure in turbocharger cores. Following this, I completed Harvard's CS50, CS50W and CS50AI courses.
+My interest in software engineering was sparked on my placement year with Cummins where I developed a practical solution, automating a laborous spend-comparison process. Here, I was also able to analyse complex simulation data in Python to determine the most prominent cause of failure in turbocharger cores. Following this, I completed Harvard's CS50, CS50W and CS50AI courses.
 
 Today, I work as an engineer building state-of-the-art Insurance solutions on Evari's low-code platform, writing in JavaScript and configuring using JSON. Developing this complex product in an Agile framework has enabled me to grow my skills in product design, collaborating with external suppliers, and forecasting potential techincal blockers in roadmapped features.
 
