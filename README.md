@@ -9,13 +9,9 @@
 
 I am a Physics graduate and Implementation Engineer for Ecclesiasical Insurance.
 
-My interest in software engineering was first sparked on my placement year at Cummins during university, where I was able to utilise the programming skills I acquired in my first year studies to develop practical applications. At Cummins, I was able to utilise Microsoft's VBA to automate a laborous spend-comparison process. This being a success, I presented the tool to the Executive Director in the USA. Later, using Python, I was able to analyse complex simulation data to determine the most prominent cause of failure in turbocharger cores.
+My interest in software engineering was sparked on my placement year with Cummins, where I developed a practical automated solution to a laborous spend-comparison process. This being a success, I presented the tool to an Executive Director in the USA. Here, I was also able to analyse complex simulation data in Python to determine the most prominent cause of failure in turbocharger cores. Following that year, I invested time into Harvard's CS50, CS50W and CS50AI courses.
 
-Following this, I invested time completing Harvard's CS50 course, giving me an understanding of Computer Science fundamentals and introducing me to C, SQL, HTML, CSS, JavaScript, Flask, advancing my profiency in Python, and even touching on Cybersecurity.
-
-Opting for the 'Scientific Computing' module in final year taught me lessons in optimising code for better run-times, and my final year project on galaxy reddening introduced me to Linux.
-
-After finishing university, I completed Harvard's CS50W course alongside a full-time job as part of a ski season in Whistler, Canada, teaching me to develop web applications using Python and JavaScript. Using frameworks such as Django, React, Bootstrap, SQL, and Selenium, I was able to develop functional applications such as a Social Networking site, a Commerce platform, and a Productivity app.
+Today, I work as an engineer building state-of-the-art Insurance solutions on Evari's low-code platform, writing in JavaScript and configuring using JSON. Developing this complex product in an Agile framework has enabled me to grow my skills in product design, collaborating with external suppliers, and forecasting potential techincal blockers in roadmapped features.
 
 Feel free to take a look at some of my projects, otherwise, find me on [LinkedIn](https://www.linkedin.com/in/joe-lambon/)!
 
