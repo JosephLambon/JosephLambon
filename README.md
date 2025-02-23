@@ -1,7 +1,19 @@
-<div style="display:flex; justify-content:center; align-items:center; gap:20px; flex-wrap:wrap;">
-  <img src="https://github.com/user-attachments/assets/7d414615-3cdd-443a-a3bd-363655bffd03" class="img-responsive" style="width: 225px;">
-  <img src="https://github.com/user-attachments/assets/6a1406f3-61e3-4616-8458-61a7f9167dae" class="img-responsive" style="width: 225px;">
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7d414615-3cdd-443a-a3bd-363655bffd03" class="img-responsive" style="width:25%;">
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/6a1406f3-61e3-4616-8458-61a7f9167dae" class="img-responsive" style="width:25%;">
+</p>
 
 ### Hi!
 
